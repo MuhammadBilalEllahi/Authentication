@@ -24,7 +24,7 @@ import static MyApp.WebEngine.WebEngine.HEIGHT;
 import static MyApp.WebEngine.WebEngine.WIDTH;
 
 public class SplashScreen extends Application {
-/// --module-path "/Users/muhammadbilalellahi/Downloads/javafx-sdk-20.0.1/lib" --add-modules="javafx.controls,javafx.fxml"
+/// --module-path ".../Downloads/javafx-sdk-20.0.1/lib" --add-modules="javafx.controls,javafx.fxml"
     private boolean jdbcConnected = false;
 
     public static Stage stage;

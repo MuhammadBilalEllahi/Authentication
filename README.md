@@ -12,9 +12,8 @@ Logs,
 WebView
 
 
-<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 28 54 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/456fce3e-abfc-474f-8f8a-c3d36d453037">
-
-<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 29 24 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/9f0558a7-b3a9-4401-b550-a7d23bf58dcf">
-<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 30 57 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/61705ec9-19c1-4659-9e5e-9a25b9c291bf">
-<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 31 10 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/8d56e437-a94a-4fcd-b75d-bdfff646c7b6">
-<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 33 53 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/a752e2fc-bf5a-4197-a394-1dd537ce56fb">
+<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 28 54 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/dae965cd-3e6d-465d-8a9f-21bffb97cf53">
+<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 29 24 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/12f5e7a5-d185-4d5a-8177-bc820ddfd82f">
+<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 30 57 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/85f3a7b1-add3-4b57-82ab-7ce5d03b4842">
+<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 31 10 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/3a6d55eb-a9f6-4433-bf7d-915b10ace8c2">
+<img width="400" height="400" alt="Screenshot 2023-11-06 at 4 33 53 PM" src="https://github.com/MuhammadBilalEllahi/Authentication/assets/67937279/bdab5b7f-67af-424c-8f07-b7cf145ee67d">

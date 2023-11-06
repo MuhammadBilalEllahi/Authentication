@@ -268,11 +268,11 @@ public class OneTimePassword {
 
 
         System.out.println(message);
-        emailSending(message ,"OTP","bilalillahi25@gmail.com");
+        emailSending(message ,"OTP","TOWHERE_EMAIL_IS_SENT@gmail.com");
         messageSending("+923111553820",message);
 
 
-        //message("+923111553820","Otp generated is " + a + " " + b + " " + c + " " + d +"\n");
+        //message("+92_TOWHERE_SMS_IS_SENT20","Otp generated is " + a + " " + b + " " + c + " " + d +"\n");
 
     }
     public static void smsMessage(String toNumber, String message)/*call to send otp via message */{

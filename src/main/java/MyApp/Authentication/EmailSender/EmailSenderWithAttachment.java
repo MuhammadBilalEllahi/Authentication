@@ -12,8 +12,8 @@ import java.util.Properties;
 public class EmailSenderWithAttachment {
 
 
-    private static final String username = "muhammadbilalellahi@gmail.com";
-    private static final String password = "bocdwhfaarsbmvhy";
+    private static final String username = "muham*****ahi@gmail.com";
+    private static final String password = "boc******vhy";
     private static final String host = "smtp.gmail.com";
     ;
 
@@ -22,11 +22,11 @@ public class EmailSenderWithAttachment {
         System.out.println("preparing to send message ...");
         String message = "Hello , Dear, this is message for security check . ";
         String subject = "Confirmation";
-        String to = "bilalillahi25@gmail.com";
+        String to = "bil******5@gmail.com";
 
 
-        EmailSenderWithAttachment.sendAttach("Hello,Konichiwa","Approval","bilalillahi25@gmail.com","");
-        EmailSenderWithAttachment.sendEmail("Hello,Konichiwa","Approval","bilalillahi25@gmail.com");
+        EmailSenderWithAttachment.sendAttach("Hello,Konichiwa","Approval","bil****5@gmail.com","");
+        EmailSenderWithAttachment.sendEmail("Hello,Konichiwa","Approval","bil*****5@gmail.com");
 
         sendEmail(message,subject,to);
         sendAttach(message,subject,to,"");

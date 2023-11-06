@@ -10,6 +10,7 @@ public class SingeltonJDBC {
     public  static Connection connection ;
 
     public  static String url = "jdbc:sqlserver://localhost:1433;database=Credentials;encrypt=true;trustServerCertificate=true;";
+//this will save you from many errors
     public  static String user = "sa";
     public  static String password = "reallyStrongPwd123";
 

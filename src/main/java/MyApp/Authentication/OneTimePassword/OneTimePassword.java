@@ -269,7 +269,7 @@ public class OneTimePassword {
 
         System.out.println(message);
         emailSending(message ,"OTP","TOWHERE_EMAIL_IS_SENT@gmail.com");
-        messageSending("+923111553820",message);
+        messageSending("+92_TOWHERE_SMS_IS_SENT20",message);
 
 
         //message("+92_TOWHERE_SMS_IS_SENT20","Otp generated is " + a + " " + b + " " + c + " " + d +"\n");

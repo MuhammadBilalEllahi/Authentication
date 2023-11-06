@@ -2,7 +2,7 @@
 
 [APPLICATION CONTAINS]
 
-Email Sender + Attachment
+Email Sender + Attachment\n
 MSSQL JDBC (Singleton)
 User Profile
 Login & Registration Scene

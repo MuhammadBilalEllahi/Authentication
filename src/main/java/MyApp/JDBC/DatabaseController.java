@@ -5,7 +5,8 @@ import java.sql.*;
 import static MyApp.JDBC.SingeltonJDBC.*;
 
 public class DatabaseController {
-
+//Don't SET DATABASE OFFLINE and Turn Off App. 
+//Better don't use this code until required
 
     public  DatabaseController() {
         try {

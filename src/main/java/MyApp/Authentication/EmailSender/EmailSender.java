@@ -9,8 +9,9 @@ import java.util.Properties;
 
 public class EmailSender {
     public static void main(String[] args) {
-        final String username = "muhammadbilalellahi@gmail.com";
-        final String password = "bocdwhfaarsbmvhy";
+        final String username = "mu*******hi@gmail.com";
+        final String password = "bo********vhy";
+//set up username and password for goggle account. with 2FA
 
         // Set up mail server properties
         Properties props = new Properties();
@@ -32,7 +33,8 @@ public class EmailSender {
             // Create a message
             Message message = new MimeMessage(session);
             message.setFrom(new InternetAddress(username));
-            message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("bilalillahi25@gmail.com"));
+            message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("bil******5@gmail.com"));
+//to where email is to be sent
             message.setSubject("Hello from JavaMail");
             message.setText("This is the content of the email.");
 

@@ -2,13 +2,13 @@
 
 [APPLICATION CONTAINS]
 
-Email Sender + Attachment
-MSSQL JDBC (Singleton)
-User Profile
-Login & Registration Scene
-Splash Screen
-OTP Sender (SMS,EMAIL)
-Logs
+Email Sender + Attachment,
+MSSQL JDBC (Singleton),
+User Profile,
+Login & Registration Scene,
+Splash Screen,
+OTP Sender (SMS,EMAIL),
+Logs,
 WebView
 
 

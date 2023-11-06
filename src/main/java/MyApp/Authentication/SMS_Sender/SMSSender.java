@@ -13,9 +13,9 @@ import java.net.URISyntaxException;
 public class SMSSender {
 
     // Twilio account information
-    private static final String ACCOUNT_SID = "ACcde091c27dd712e7ff059bfbf15f64f5";
-    private static final String AUTH_TOKEN = "6cba1d34ecb08369c1100071822b1287";
-    private static final String FROM_NUMBER = "+447458157699";
+    private static final String ACCOUNT_SID = "ACcd*****e0f5";
+    private static final String AUTH_TOKEN = "6cba*******287";
+    private static final String FROM_NUMBER = "+44******699";
 
     public static void sendSMS(String toNumber, String messageBody) {
         Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
@@ -42,7 +42,7 @@ public class SMSSender {
                 new PhoneNumber(FROM_NUMBER),
                 new URI("http://demo.twilio.com/docs/voice.xml")
                 //voiceResponse.toXml()
-                //Account not authorized to call +923111553820. Perhaps you need to enable some international permissions: https://www.twilio.com/console/voice/calls/geo-permissions/low-risk
+                //Account not authorized to call +92*****20. Perhaps you need to enable some international permissions: https://www.twilio.com/console/voice/calls/geo-permissions/low-risk
 
 
         ).create();
